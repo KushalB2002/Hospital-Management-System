@@ -1,2 +1,2 @@
 # Hospital-Management-System
-Hospital Management System built with Python Django
+This Hospital Management System built with Python Django is a comprehensive web application for managing hospital records, patient appointments, and billing. The system is organized into three panels: Patient, Doctor, and Admin. Patients can register, manage appointments, view hospital expenses, and download bills. Doctors can view patient information, manage appointments, and interact with patient records. The Admin has complete control, overseeing system operations, approving requests, and managing billing details such as room charges and doctor fees. This project is ideal for learning or adapting hospital management functionalities.
